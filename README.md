@@ -62,4 +62,10 @@ The project was implemented using the following Python libraries:
 ## Results
 The model was evaluated using metrics such as accuracy and confusion matrix analysis. These metrics help assess how well the model can correctly classify diabetic and non-diabetic patients.
 
-## Repository Structure
+**Anamika Munshi**  
+MScI Physics – Queen Mary University of London  
+
+Interests:  
+- Machine Learning  
+- Data Science  
+- Artificial Intelligence 
